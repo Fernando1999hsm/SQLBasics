@@ -1,7 +1,8 @@
 //Mostrar
+show databases;
 
 //Crear
+create database curso;
 
 //Eliminar
-
-//Modificar
+drop database curso;
